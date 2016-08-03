@@ -16,7 +16,7 @@ public class AndroidStudioTestMainActivity extends AppCompatActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.menu_android_studio_test, menu);
+        inflater.inflate(R.menu.menu_android_studio_test_main, menu);
         return true;
     }
 }
